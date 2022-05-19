@@ -37,7 +37,8 @@ git clone https://github.com/hitoyamada15/ubuntu_tutorial
 
 * **sudo [なにかしらのコマンド]**
 
-root権限でコマンド実行する。
+root権限でコマンド実行する。コマンドを無理やり？実行する感じ
 ```bash
-git clone https://github.com/hitoyamada15/ubuntu_tutorial
+sudo apt update
 ```
+おそらくapt updateのみだと「権限がないよー」っていうエラーがでるはず
