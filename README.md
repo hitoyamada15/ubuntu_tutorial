@@ -6,7 +6,7 @@ YouTube:https://youtu.be/YH3kXBNF7mc
 YouTube:https://youtu.be/J9aSsXWOMss
 
 # Ubuntu OSの入手先
-「.iso」ファイルをダウンロードします
+「**.iso**」ファイルをダウンロードします
 
 Ubuntu 18.04:https://www.ubuntulinux.jp/News/ubuntu1804-ja-remix
 
@@ -14,12 +14,17 @@ Ubuntu 20.04:https://www.ubuntulinux.jp/News/ubuntu2004-ja-remix
 
 Ubuntu 22.04:http://www.ubuntulinux.jp/News/ubuntu2204-ja-remix
 
-おすすめはUbuntu20.04
-安定版はUbuntu18.04
-最新版はUbuntu22.04
+*おすすめはUbuntu20.04
+*安定版はUbuntu18.04
+*最新版はUbuntu22.04
 
 # balenaEtcherのインストール
 URL:https://www.balena.io/etcher/
 
 # SDメモリカードフォーマッターのインストール
-https://www.sdcard.org/ja/downloads-2/formatter-2/
+URL:https://www.sdcard.org/ja/downloads-2/formatter-2/
+
+# Google Chromeのインストール
+URL:https://www.google.com/intl/ja_jp/chrome/
+
+# よく使うコマンド
