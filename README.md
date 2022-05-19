@@ -14,7 +14,9 @@ Ubuntu 20.04:https://www.ubuntulinux.jp/News/ubuntu2004-ja-remix
 
 Ubuntu 22.04:http://www.ubuntulinux.jp/News/ubuntu2204-ja-remix
 
-2021年5月時点でのおすすめはUbuntu
+おすすめはUbuntu20.04
+安定版はUbuntu18.04
+最新版はUbuntu22.04
 
 # balenaEtcherのインストール
 URL:https://www.balena.io/etcher/
