@@ -28,8 +28,8 @@ URL:https://www.sdcard.org/ja/downloads-2/formatter-2/
 URL:https://www.google.com/intl/ja_jp/chrome/
 
 # よく使うコマンド
-**git clone _URL_**
+* **git clone [GitHubのURL]**
 GitHubからプロジェクトをダウンロードする。コマンド後にURLを記載
 ```bash
-git clone 
+git clone https://github.com/hitoyamada15/ubuntu_tutorial
 ```
