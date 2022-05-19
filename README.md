@@ -1,4 +1,4 @@
-# Ubuntuのセットアップの方法動画
+# Ubuntuのセットアップの方法
 新しい動画(Ubuntu18.04)
 YouTube:https://youtu.be/YH3kXBNF7mc
 
