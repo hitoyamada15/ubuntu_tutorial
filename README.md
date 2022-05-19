@@ -34,3 +34,10 @@ GitHubからプロジェクトをダウンロードする。コマンド後にUR
 ```bash
 git clone https://github.com/hitoyamada15/ubuntu_tutorial
 ```
+
+* **sudo [なにかしらのコマンド]**
+
+root権限でコマンド実行する。
+```bash
+git clone https://github.com/hitoyamada15/ubuntu_tutorial
+```
