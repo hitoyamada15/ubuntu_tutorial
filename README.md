@@ -29,6 +29,7 @@ URL:https://www.google.com/intl/ja_jp/chrome/
 
 # よく使うコマンド
 * **git clone [GitHubのURL]**
+
 GitHubからプロジェクトをダウンロードする。コマンド後にURLを記載
 ```bash
 git clone https://github.com/hitoyamada15/ubuntu_tutorial
